@@ -3,9 +3,8 @@
 
 <param ve-config 
        title="Hortus Malabaricus"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
-       layout="vertical">
+       author="Walter Klyshevich"
+       banner="https://www.ayurvedajournals.com/article/Hendrik-van-Rheede-hortus-malabaricus-frame-1000.jpg
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
