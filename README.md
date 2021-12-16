@@ -4,7 +4,7 @@
 <param ve-config 
        title="Hortus Malabaricus"
        author="Walter Klyshevich"
-       banner="https://www.ayurvedajournals.com/article/Hendrik-van-Rheede-hortus-malabaricus-frame-1000.jpg
+       banner="![image](https://user-images.githubusercontent.com/91628291/146293867-fde4e934-3c3a-4b22-b670-4ea93d88b0b8.png)
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
